@@ -1,1 +1,1 @@
-# Electricity-Consumption-Analysis
+# Coal-Consumption-Analysis
